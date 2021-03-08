@@ -6,6 +6,10 @@
 ~> [Bases De Datos](https://github.com/AaronAlvz08/MineriaDatos003/blob/main/Ej1_BasesDatos_Equipo_7.pdf)
 
 ~> [Ejercicios Practicos](https://github.com/AaronAlvz08/MineriaDatos003/blob/main/Ej_Python_1723466.ipynb)
+
+~> [Limpieza de Datos](https://github.com/paolaim/mineria-datos/blob/gh-pages/Ej_Limpieza_Equipo7.ipynb)
+
+
 ## Fase 2
 
 ## Fase 3
