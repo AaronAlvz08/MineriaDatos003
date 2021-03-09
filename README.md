@@ -15,7 +15,7 @@
 
 ~> [Presentación de técnica](https://github.com/AaronAlvz08/MineriaDatos003/blob/main/Presentaci%C3%B3n_%C3%81rboles%20de%20desici%C3%B3n_Equipo7.pdf)
 
-~> [Ejercicio Árboles de Decisión]()
+~> [Ejercicio Árboles de Decisión](https://github.com/AaronAlvz08/MineriaDatos003/blob/main/EJEMPLO.ipynb)
 
 ~> [Resultados del examen de la técnica](https://github.com/AaronAlvz08/MineriaDatos003/blob/main/%C3%81rboles%20de%20desici%C3%B3n%20resultados.pdf)
 ## Fase 3
