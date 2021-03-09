@@ -9,6 +9,7 @@
 
 ~> [Limpieza de Datos](https://github.com/paolaim/mineria-datos/blob/gh-pages/Ej_Limpieza_Equipo7.ipynb)
 
+~> [Parte 1 PIA](https://github.com/paolaim/mineria-datos/blob/gh-pages/Avance_PIA_equipo07.ipynb)
 
 ## Fase 2
 
