@@ -20,4 +20,8 @@
 ~> [Resultados del examen de la técnica](https://github.com/AaronAlvz08/MineriaDatos003/blob/main/%C3%81rboles%20de%20desici%C3%B3n%20resultados.pdf)
 
 ~> [Mapa Mental 2](https://github.com/AaronAlvz08/MineriaDatos003/blob/main/MapaMental_2_1723466.pdf)
+
+~> [Practica Visualización](https://github.com/marissabelmar/Mineria_de_datos/blob/main/Visualizacion_Equipo7.ipynb)
+
+~> [Parte 2 PIA]
 ## Fase 3
