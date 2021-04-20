@@ -24,4 +24,6 @@
 ~> [Practica Visualización](https://github.com/marissabelmar/Mineria_de_datos/blob/main/Visualizacion_Equipo7.ipynb)
 
 ~> [Parte 2 PIA](https://github.com/AaronAlvz08/MineriaDatos003/blob/main/AvancePIA_II_003_07.ipynb)
+
+~> [Parte 2 PIA (Correción)](https://github.com/paolaim/mineria-datos/blob/gh-pages/AvancePIA_II_003_07.ipynb)
 ## Fase 3
